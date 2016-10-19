@@ -1,0 +1,20 @@
+[file_settings]
+#¶ÁÈ¡µÄÎÄŒþÎÄŒþÃû£¬Ðè·ÅÔÚ±ŸÎÄŒþŒÐÖÐ
+input_file = 1.xls
+#Êä³öµÄÎÄŒþÎÄŒþÃû 
+output_file = 12.xls    
+ 
+
+[excel_settings]
+#ÆÀÂÛËùÔÚµÄ±ížñÐòºÅ£¬ŽÓ0¿ªÊŒËã
+sheet_num = 0
+#ÆÀÂÛËùÔÚµÄÁÐÐòºÅ£¬ŽÓ0¿ªÊŒËã  
+column_comment_num = 0
+#ÆÀÂÛÊ±ŒäËùÔÚµÄÐòÁÐºÅ
+column_date_num = 0
+ 
+[comment_settings]
+#¿ªÊŒµÄÆÀÂÛÐòºÅ
+begin_row = 1
+#œáÊøµÄÆÀÂÛÐòºÅ
+end_row =100000
